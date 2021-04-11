@@ -7,3 +7,8 @@
 3. Selanjutnya saya membuat decription list
 
 ![3](https://user-images.githubusercontent.com/81579730/114311700-f9a8a980-9b19-11eb-88cb-4d189ac87c34.PNG)![3 1](https://user-images.githubusercontent.com/81579730/114311708-00372100-9b1a-11eb-9046-5810fd925a56.PNG)
+4.Membuat tabel sederhana.![4](https://user-images.githubusercontent.com/81579730/114312099-a0417a00-9b1b-11eb-9e39-2118395c9b31.PNG)![4 1](https://user-images.githubusercontent.com/81579730/114312129-c5ce8380-9b1b-11eb-98b2-af931162da76.PNG)
+
+saya mengatur margin tabel saya dengan mengatur cellspacing dan cellspading, saya ubah dengan ukuran 8 dan 6 ![4 2](https://user-images.githubusercontent.com/81579730/114312351-910efc00-9b1c-11eb-903c-8d9d076f9938.PNG)![4 3](https://user-images.githubusercontent.com/81579730/114312403-c3205e00-9b1c-11eb-9b09-7958f36fe004.PNG)
+5.lalu saya mengatur margin yang vertikal berarti saya menggunakan rowspan.![5](https://user-images.githubusercontent.com/81579730/114312593-59ed1a80-9b1d-11eb-8ac5-48bf87a27c4b.PNG)![5 1](https://user-images.githubusercontent.com/81579730/114312621-6d988100-9b1d-11eb-9711-80f044cc6d48.PNG)
+
